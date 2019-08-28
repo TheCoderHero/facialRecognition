@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/facialRecognition/static/css/main.2cce8147.chunk.css",
-    "main.js": "/facialRecognition/static/js/main.35950a34.chunk.js",
-    "main.js.map": "/facialRecognition/static/js/main.35950a34.chunk.js.map",
+    "main.css": "/facialRecognition/static/css/main.2b00cef3.chunk.css",
+    "main.js": "/facialRecognition/static/js/main.be136373.chunk.js",
+    "main.js.map": "/facialRecognition/static/js/main.be136373.chunk.js.map",
     "runtime~main.js": "/facialRecognition/static/js/runtime~main.06b5559c.js",
     "runtime~main.js.map": "/facialRecognition/static/js/runtime~main.06b5559c.js.map",
-    "static/js/2.74e4162c.chunk.js": "/facialRecognition/static/js/2.74e4162c.chunk.js",
-    "static/js/2.74e4162c.chunk.js.map": "/facialRecognition/static/js/2.74e4162c.chunk.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/facialRecognition/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.ce3f1ab8.chunk.js": "/facialRecognition/static/js/2.ce3f1ab8.chunk.js",
+    "static/js/2.ce3f1ab8.chunk.js.map": "/facialRecognition/static/js/2.ce3f1ab8.chunk.js.map",
     "index.html": "/facialRecognition/index.html",
-    "precache-manifest.5ca2fc6f07f7e089691e0440cd5337d1.js": "/facialRecognition/precache-manifest.5ca2fc6f07f7e089691e0440cd5337d1.js",
+    "precache-manifest.16e475a532b4dc3acb1aedcfc6fb9adb.js": "/facialRecognition/precache-manifest.16e475a532b4dc3acb1aedcfc6fb9adb.js",
     "service-worker.js": "/facialRecognition/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/facialRecognition/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/facialRecognition/static/media/logo.5d5d9eef.svg"
+    "static/css/2.31dafeb2.chunk.css.map": "/facialRecognition/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.2b00cef3.chunk.css.map": "/facialRecognition/static/css/main.2b00cef3.chunk.css.map",
+    "static/media/CoderHero.png": "/facialRecognition/static/media/CoderHero.aae52855.png"
   }
 }
