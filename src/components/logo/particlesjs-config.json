@@ -1,12 +1,4 @@
-import React from 'react';
-import Navigation from './components/navigation/navigation';
-import Logo from './components/logo/logo';
-import Rank from './components/rank/rank';
-import ImageLinkForm from './components/imageLinkForm/imagelf';
-import Particles from 'react-particles-js';
-import './App.css';
-
-const particplesOptions = {
+{
   "particles": {
     "number": {
       "value": 464,
@@ -116,21 +108,3 @@ const particplesOptions = {
   },
   "retina_detect": true
 }
-
-function App() {
-  return (
-    <div className="App">
-      <Particles className='particles'
-              params={particplesOptions}
-            />
-      <Navigation />
-      <Logo />
-      <Rank />
-      <ImageLinkForm />
-      {/*
-      <FaceRecognition /> */}
-    </div>
-  );
-}
-
-export default App;
